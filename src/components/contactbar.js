@@ -26,3 +26,4 @@ const contactBar = () => {
 }
 
 export default contactBar
+
