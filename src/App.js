@@ -17,7 +17,7 @@ import Projects from "./pages/projects";
 const App = ()=>{
   return (
 
-    <Router>
+    <Router basename="/New-Portfolio">
       
       <Layout>
       
